@@ -1,0 +1,4 @@
+#API
+apikeyDiscord=""
+apikeyCoingecko=""
+apikeyMoralis=""
