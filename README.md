@@ -23,7 +23,7 @@ This bot use CoinGecko for their API to call some info for Gyro, Moralis for the
 
 Added a schedule command :
 
-- $newSchedule 'Name, desc, date(year, month, day hour, minute)' : Create a new schedule
+- $newSchedule 'Name, desc, date(year, month, day, hour, minute)' : Create a new schedule
   - e.g. : $newSchedule NameTest DescTest 2021 12 09 19 00
 
 - $until 'schedule name' : Give you a countdown of the selected schedule
